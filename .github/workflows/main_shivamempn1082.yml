@@ -6,7 +6,7 @@ name: Build and deploy Node.js app to Azure Web App - ShivamEMPN1082
 on:
   push:
     branches:
-      - main
+      - latest
   workflow_dispatch:
 
 jobs:

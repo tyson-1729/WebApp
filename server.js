@@ -50,7 +50,7 @@ app.get('/data2', async (req, res) => {
  
 app.listen(port, () => {
   try{
-    console.log(`Server running at http://localhost:${port}`);
+    console.log(`Server successfully running at http://localhost:${port}`);
   }catch(err){
     console.log("err",err)
   }
