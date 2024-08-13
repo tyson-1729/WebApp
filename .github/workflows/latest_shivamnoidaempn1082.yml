@@ -59,4 +59,4 @@ jobs:
           app-name: 'ShivamNoidaEMPN1082'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14FF08E348924FC6B81C1599408A6CD9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5781511FF3AF4A2B94DF92F964EB22A5 }}
